@@ -2,7 +2,7 @@
 Клонувати репозиторій:
 
 
-git clone https://ALEXluna0204/shop.git
+git clone https://github.com/твій-логін/computer-store.git
 cd computer-store
 
 Встановити залежності:
@@ -83,7 +83,7 @@ npm start
 
 Резервне копіювання (docs/backup.md)
 Код:
-git clone --mirror https://ALEXluna0204/shop.git
+git clone --mirror https://github.com/твій-логін/computer-store.git
 
 База даних:
 mongodump --db computer_store --out ./backup/mongo_$(date +%F)
